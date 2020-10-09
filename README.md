@@ -1,12 +1,12 @@
 # medium-unlimited
-Firefox Browser
+# Firefox Browser
 Head over to the firefox addons store and install the Medium-Unlimited addon.
 
 Link - https://addons.mozilla.org/en-US/firefox/addon/medium-unlimited-read-for-free/
 
 
 
-Google Chrome Browser
+# Google Chrome Browser
 Follow the below steps to add the extension to your Google Chrome browser:
 
 Open the Extension Manager by following:
